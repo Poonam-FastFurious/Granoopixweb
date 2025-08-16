@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "heading": "What exactly is Augmented Reality (AR)?",
+    "body": "Augmented Reality (AR) overlays digital information, such as images, videos, and 3D models, onto the real world. Unlike virtual reality (VR), AR doesn't replace your view of the real world; it enhances it. Think of apps like Pokémon GO or Snapchat filters—they use AR to blend virtual content with your surroundings. Granoopixr excels in AR app development in Noida, creating custom solutions for various industries.",
+    "delay": ".1s",
+    "expanded": false
+  },
+  {
+    "id": 2,
+    "heading": "How does Virtual Reality (VR) differ from AR?",
+    "body": "Virtual Reality (VR) completely immerses users in a simulated environment, often through a headset that blocks out the real world. It creates an entirely new, interactive digital world. Augmented reality, on the other hand, adds digital elements to the real world, allowing you to see and interact with both simultaneously. Granoopixr is a leading VR Development Company in Noida, specializing in creating these immersive virtual experiences",
+    "delay": ".2s",
+    "expanded": false
+  },
+  {
+    "id": 3,
+    "heading": "What industries can benefit from AR and VR solutions?",
+    "body": "AR and VR have vast applications across numerous industries. These include:\n • Retail & E-commerce: Virtual try-ons, 3D product visualization.\n• Real Estate: Virtual property tours, interactive floor plans.\n• Education & Training: Immersive learning modules, realistic simulations.\n• Healthcare: Surgical training, therapy, patient education.\n• Manufacturing & Engineering: Design visualization, remote assistance, maintenance.\n• Entertainment & Gaming: Immersive games, virtual concerts.\nGranoopixr, as an Augmented Reality Agency in Noida and VR development expert, crafts tailored solutions for diverse industry needs.",
+    "delay": ".3s",
+    "expanded": false
+  },
+  {
+    "id": 4,
+    "heading": "How long does it take to develop an AR/VR application?",
+    "body": "The development timeline for an AR/VR application varies significantly based on complexity, features, platform, and specific requirements. A simple AR app might take a few weeks, while a complex VR training simulation could take several months. At Granoopixr, we provide a detailed project roadmap and timeline after a thorough consultation to understand your needs.",
+    "delay": ".4s",
+    "expanded": false
+  },
+  {
+    "id": 5,
+    "heading": "What kind of support does Granoopixr offer after development?",
+    "body": "Granoopixr offers comprehensive post-development support, including maintenance, updates, and troubleshooting to ensure your AR/VR application runs smoothly. We aim to build long-term partnerships with our clients, providing ongoing assistance to keep your solution cutting-edge and effective.",
+    "delay": ".5s",
+    "expanded": false
+  }
+]

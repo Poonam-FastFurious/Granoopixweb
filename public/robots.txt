@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+# Sitemap
+Sitemap: https://granoopixr.com/sitemap.xml

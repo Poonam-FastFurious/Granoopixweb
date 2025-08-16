@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "heading": "Which company provides top Virtual Reality in Chennai?",
+    "body": "Granoopixr is one of the leading names in Virtual Reality in Chennai, offering custom VR apps, games, simulations, and training modules for various sectors.",
+    "delay": ".1s",
+    "expanded": false
+  },
+  {
+    "id": 2,
+    "heading": "Is Granoopixr an Augmented Reality Studio in Chennai?",
+    "body": "Yes, we are a full-service Augmented Reality Studio in Chennai, creating interactive AR filters, product visualizations, mobile-based AR apps, and more.",
+    "delay": ".2s",
+    "expanded": false
+  },
+  {
+    "id": 3,
+    "heading": "What makes Granoopixr different from other VR companies in Chennai?",
+    "body": "Our blend of creativity, technical skill, and deep understanding of immersive storytelling sets us apart among VR companies in Chennai. We focus on business results, not just technology.",
+    "delay": ".3s",
+    "expanded": false
+  },
+  {
+    "id": 4,
+    "heading": "Do you provide Augmented Reality in Chennai for educational purposes?",
+    "body": "Absolutely! Our Augmented Reality in Chennai services include engaging educational content, 3D models, and interactive learning experiences for schools and institutions.",
+    "delay": ".4s",
+    "expanded": false
+  }
+]

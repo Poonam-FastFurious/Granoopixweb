@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "heading": "What AR and VR services does Granoopixr offer in Gurugram?",
+    "body": "Granoopixr offers customized Augmented Reality (AR) and Virtual Reality (VR) solutions in Gurugram, including VR app development, AR filters, immersive training modules, and product demos.",
+    "delay": ".1s",
+    "expanded": false
+  },
+  {
+    "id": 2,
+    "heading": "How can AR and VR help my business in Gurugram?",
+    "body": "AR and VR can enhance customer engagement, improve training outcomes, provide interactive product visualizations, and create unforgettable marketing experiences.",
+    "delay": ".2s",
+    "expanded": false
+  },
+  {
+    "id": 3,
+    "heading": "Do you provide on-site support in Gurugram?",
+    "body": "Yes, our team provides local support in Gurugram to ensure smooth deployment and execution of AR/VR projects.",
+    "delay": ".3s",
+    "expanded": false
+  },
+  {
+    "id": 4,
+    "heading": "Can Granoopixr develop custom VR simulations for employee training?",
+    "body": "Absolutely! We specialize in building immersive VR simulations tailored for training employees in various industries, including healthcare, real estate, and education.",
+    "delay": ".4s",
+    "expanded": false
+  },
+  {
+    "id": 5,
+    "heading": "Is Granoopixr suitable for startups and small businesses?",
+    "body": "Yes, we work with companies of all sizes, offering scalable AR/VR solutions that fit your budget and business goals.",
+    "delay": ".5s",
+    "expanded": false
+  }
+]

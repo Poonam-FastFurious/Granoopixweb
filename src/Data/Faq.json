@@ -1,0 +1,108 @@
+[
+    {
+        "id": "One11",
+        "delay": "0.2s",
+        "heading": "What is the difference between AR and VR?",
+        "body": "AR enhances the real world by overlaying digital elements onto the physical environment, while VR immerses users in a completely virtual, computer-generated world. AR keeps users connected to reality; VR replaces it entirely. Both offer unique, interactive experiences.",
+        "expanded": true
+      },
+      {
+        "id": "Two22",
+        "delay": "0.3s",
+        "heading": "What technology is used in AR?",
+        "body": "AR uses technologies like computer vision, simultaneous localization and mapping (SLAM), depth tracking, and sensors (gyroscope, accelerometer) to overlay digital elements on the real world. Devices include smartphones, AR glasses, headsets, and cameras.",
+        "expanded": false
+      },
+      {
+        "id": "Two33",
+        "delay": "0.4s",
+        "heading": "How is augmented reality used in e-commerce?",
+        "body": "Augmented reality in e-commerce allows customers to visualize products in real-time within their environment before purchasing. Features like virtual try-ons, 3D product views, and interactive fitting rooms enhance shopping experiences and boost customer confidence.",
+        "expanded": false
+      },
+      {
+        "id": "Two44",
+        "delay": "0.5s",
+        "heading": "What is Meta augmented reality?",
+        "body": "Meta's augmented reality (AR) refers to the company's AR initiatives, particularly through devices like Meta Quest (formerly Oculus) and Meta AR Glasses. It blends the physical and digital worlds, enabling immersive experiences such as virtual meetings, interactive environments, and gaming. Meta is focusing on creating a 'metaverse,' where AR, VR, and other immersive technologies connect users in shared virtual spaces. With AR, Meta aims to integrate digital content seamlessly into everyday life, enhancing social interactions, work, and entertainment.",
+        "expanded": false
+      },
+      {
+        "id": "Two55",
+        "delay": "0.6s",
+        "heading": "Who defined augmented reality?",
+        "body": "Augmented Reality (AR) was first defined by Tom Caudell, an American researcher, in the early 1990s. He described it as a system that visually augments a user's environment by superimposing digital information, enhancing their perception of the real world.",
+        "expanded": false
+      },
+    {
+      "id": "Three11",
+      "delay": "0.7s",
+      "heading": "What is Mixed Reality?",
+      "body": "Mixed Reality (MR) combines elements of both Augmented Reality (AR) and Virtual Reality (VR), blending the real world with interactive virtual objects. It allows users to interact with digital content while remaining aware of and engaging with their physical surroundings.",
+      "expanded": true
+    },
+    {   
+      "id": "Three22",
+      "delay": "0.8s",
+      "heading": "What is the difference between Mixed Reality (MR) and Virtual Reality (VR)?",
+      "body": "Mixed Reality (MR) blends the real world with virtual elements, allowing interaction between both, while Virtual Reality (VR) fully immerses users in a simulated, digital environment, isolating them from the real world. MR keeps users connected to their surroundings, VR does not.",
+      "expanded": false
+    },
+    {
+      "id": "Three33",
+      "delay": "0.9s",
+      "heading": "What are the benefits of Mixed Reality (MR)?",
+      "body": "Mixed Reality (MR) enhances learning, collaboration, and creativity by merging the physical and virtual worlds. It improves training simulations, remote collaboration, design visualization, and customer engagement, providing immersive, interactive experiences for various industries.",
+      "expanded": false
+    },
+    {
+      "id": "Three44",
+      "delay": "1.0s",
+      "heading": "What is the future of Mixed Reality (MR)?",
+      "body": "The future of Mixed Reality (MR) holds transformative potential in fields like healthcare, education, entertainment, and design. MR will enable more immersive learning, remote collaboration, interactive gaming, and advanced product visualization, driving innovation across industries.",
+      "expanded": false
+    },
+    {
+      "id": "Three55",
+      "delay": "1.1s",
+      "heading": "Which industries can take maximum advantage of Mixed Reality technology?",
+      "body": "Industries that can benefit the most from Mixed Reality (MR) include healthcare (for surgery and training), education (interactive learning), manufacturing (design and assembly), retail (virtual try-ons), and real estate (virtual property tours).",
+      "expanded": false
+    },
+    {
+      "id": "Four11",
+      "delay": "1.2s",
+      "heading": "What is Virtual Reality?",
+      "body": "Virtual Reality (VR) is a technology that immerses users in a completely digital, computer-generated environment, isolating them from the real world. It typically requires VR headsets and controllers, allowing interaction with the virtual world for gaming, training, and simulations.",
+      "expanded": true
+    },
+    {
+      "id": "Four22",
+      "delay": "1.3s",
+      "heading": "How to use Virtual Reality?",
+      "body": "To use Virtual Reality (VR), you need a VR headset, such as Oculus or HTC Vive, and compatible content (games, apps, or simulations). Put on the headset, follow setup instructions, and use controllers or hand gestures to interact with the virtual environment for an immersive experience.",
+      "expanded": false
+    },
+    {
+      "id": "Four33",
+      "delay": "1.4s",
+      "heading": "How is Virtual Reality used in healthcare?",
+      "body": "Virtual Reality (VR) in healthcare is used for medical training, allowing doctors to practice surgeries in a risk-free environment. It also aids in patient therapy, such as pain management, rehabilitation, and exposure therapy, offering immersive, controlled treatments for various conditions.",
+      "expanded": false
+    },
+    {
+      "id": "Four44",
+      "delay": "1.5s",
+      "heading": "Is Virtual Reality a medical device?",
+      "body": "Virtual Reality (VR) can be considered a medical device when used for clinical purposes, such as in therapy, medical training, or surgical simulations. However, VR systems must meet regulatory standards, like FDA approval, to be classified as medical devices for specific treatments.",
+      "expanded": false
+    },
+    {
+      "id": "Four55",
+      "delay": "1.6s",
+      "heading": "What is the future of Virtual Reality in education?",
+      "body": "The future of Virtual Reality (VR) in education will revolutionize learning by providing immersive, hands-on experiences. Students can explore historical sites, conduct virtual science experiments, or practice skills in simulations, enhancing engagement and understanding across subjects.",
+      "expanded": false
+    }
+  ]
+  
