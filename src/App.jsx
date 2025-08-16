@@ -249,6 +249,7 @@ function App() {
               }
             />
             {/* seo pages  */}
+            {/* seo pages  */}
             <Route path="/ar-vr-servises-in-usa" element={<Usa />} />
             <Route path="/ar-vr-solutions-in-dubai" element={<Dubai />} />
             <Route path="/noida" element={<Noida />} />
